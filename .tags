@@ -10,6 +10,10 @@
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
 *	style.css	/^* {$/;"	s
+.banner	style.css	/^.banner {$/;"	c
+.banner .contenido	style.css	/^.banner .contenido {$/;"	c
+.banner .userimg	style.css	/^.banner .userimg {$/;"	c
+.banner .userimg img	style.css	/^.banner .userimg img {$/;"	s
 .contenedor	style.css	/^.contenedor {$/;"	c
 .main	style.css	/^.main {$/;"	c
 .main .barrasuperior	style.css	/^.main .barrasuperior {$/;"	c
@@ -34,9 +38,11 @@
 ::-webkit-outer-spin-button	normalize.css	/^[type="number"]::-webkit-outer-spin-button {$/;"	s
 ::-webkit-search-decoration	normalize.css	/^[type="search"]::-webkit-search-decoration {$/;"	s
 :root	style.css	/^:root {$/;"	s
+Juan Ocampo	index.html	/^          <h3>Juan Ocampo<\/h3>$/;"	j
 a	normalize.css	/^a {$/;"	s
 abbr[title]	normalize.css	/^abbr[title] {$/;"	s
 b	normalize.css	/^b,$/;"	s
+banner	index.html	/^      <section class="banner" id="banner">$/;"	I
 body	normalize.css	/^body {$/;"	s
 body	style.css	/^body {$/;"	s
 button	normalize.css	/^button,$/;"	s
@@ -46,6 +52,7 @@ code	normalize.css	/^code,$/;"	s
 details	normalize.css	/^details {$/;"	s
 fieldset	normalize.css	/^fieldset {$/;"	s
 h1	normalize.css	/^h1 {$/;"	s
+h3	style.css	/^h3 {$/;"	s
 hidden	normalize.css	/^[hidden] {$/;"	s
 hr	normalize.css	/^hr {$/;"	s
 html	normalize.css	/^html {$/;"	s
@@ -60,6 +67,7 @@ optgroup	normalize.css	/^optgroup,$/;"	s
 pre	normalize.css	/^pre {$/;"	s
 progress	normalize.css	/^progress {$/;"	s
 samp	normalize.css	/^samp {$/;"	s
+section	style.css	/^section {$/;"	s
 select	normalize.css	/^select { \/* 1 *\/$/;"	s
 select	normalize.css	/^select,$/;"	s
 small	normalize.css	/^small {$/;"	s
