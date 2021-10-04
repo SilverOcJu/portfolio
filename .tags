@@ -1,0 +1,87 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/silver/Documentos/Diseño web/portfolio/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+*	style.css	/^* {$/;"	s
+.contenedor	style.css	/^.contenedor {$/;"	c
+.main	style.css	/^.main {$/;"	c
+.main .barrasuperior	style.css	/^.main .barrasuperior {$/;"	c
+.main .barrasuperior .display	style.css	/^.main .barrasuperior .display {$/;"	c
+.main .barrasuperior .logo	style.css	/^.main .barrasuperior .logo {$/;"	c
+.main .barrasuperior.activo	style.css	/^.main .barrasuperior.activo {$/;"	c
+.main.activo	style.css	/^.main.activo {$/;"	c
+.navegacion	style.css	/^.navegacion {$/;"	c
+.navegacion ul	style.css	/^.navegacion ul {$/;"	s
+.navegacion ul li	style.css	/^.navegacion ul li {$/;"	s
+.navegacion ul li a	style.css	/^.navegacion ul li a {$/;"	s
+.navegacion ul li a:hover	style.css	/^.navegacion ul li a:hover {$/;"	s
+.navegacion.activo	style.css	/^.navegacion.activo {                            \/* clase "activo" añadida en el js *\/$/;"	c
+:-moz-focusring	normalize.css	/^[type="button"]:-moz-focusring,$/;"	s
+:-moz-focusring	normalize.css	/^[type="reset"]:-moz-focusring,$/;"	s
+:-moz-focusring	normalize.css	/^[type="submit"]:-moz-focusring {$/;"	s
+::-moz-focus-inner	normalize.css	/^[type="button"]::-moz-focus-inner,$/;"	s
+::-moz-focus-inner	normalize.css	/^[type="reset"]::-moz-focus-inner,$/;"	s
+::-moz-focus-inner	normalize.css	/^[type="submit"]::-moz-focus-inner {$/;"	s
+::-webkit-file-upload-button	normalize.css	/^::-webkit-file-upload-button {$/;"	s
+::-webkit-inner-spin-button	normalize.css	/^[type="number"]::-webkit-inner-spin-button,$/;"	s
+::-webkit-outer-spin-button	normalize.css	/^[type="number"]::-webkit-outer-spin-button {$/;"	s
+::-webkit-search-decoration	normalize.css	/^[type="search"]::-webkit-search-decoration {$/;"	s
+:root	style.css	/^:root {$/;"	s
+a	normalize.css	/^a {$/;"	s
+abbr[title]	normalize.css	/^abbr[title] {$/;"	s
+b	normalize.css	/^b,$/;"	s
+body	normalize.css	/^body {$/;"	s
+body	style.css	/^body {$/;"	s
+button	normalize.css	/^button,$/;"	s
+button:-moz-focusring	normalize.css	/^button:-moz-focusring,$/;"	s
+button::-moz-focus-inner	normalize.css	/^button::-moz-focus-inner,$/;"	s
+code	normalize.css	/^code,$/;"	s
+details	normalize.css	/^details {$/;"	s
+fieldset	normalize.css	/^fieldset {$/;"	s
+h1	normalize.css	/^h1 {$/;"	s
+hidden	normalize.css	/^[hidden] {$/;"	s
+hr	normalize.css	/^hr {$/;"	s
+html	normalize.css	/^html {$/;"	s
+img	normalize.css	/^img {$/;"	s
+input	normalize.css	/^input { \/* 1 *\/$/;"	s
+input	normalize.css	/^input,$/;"	s
+kbd	normalize.css	/^kbd,$/;"	s
+legend	normalize.css	/^legend {$/;"	s
+main	normalize.css	/^main {$/;"	s
+o	normalize.css	/^o$/;"	s
+optgroup	normalize.css	/^optgroup,$/;"	s
+pre	normalize.css	/^pre {$/;"	s
+progress	normalize.css	/^progress {$/;"	s
+samp	normalize.css	/^samp {$/;"	s
+select	normalize.css	/^select { \/* 1 *\/$/;"	s
+select	normalize.css	/^select,$/;"	s
+small	normalize.css	/^small {$/;"	s
+strong	normalize.css	/^strong {$/;"	s
+sub	normalize.css	/^sub {$/;"	s
+sub	normalize.css	/^sub,$/;"	s
+summary	normalize.css	/^summary {$/;"	s
+sup	normalize.css	/^sup {$/;"	s
+template	normalize.css	/^template {$/;"	s
+textarea	normalize.css	/^textarea {$/;"	s
+type	normalize.css	/^[type="button"],$/;"	s
+type	normalize.css	/^[type="button"]:-moz-focusring,$/;"	s
+type	normalize.css	/^[type="button"]::-moz-focus-inner,$/;"	s
+type	normalize.css	/^[type="checkbox"],$/;"	s
+type	normalize.css	/^[type="number"]::-webkit-inner-spin-button,$/;"	s
+type	normalize.css	/^[type="number"]::-webkit-outer-spin-button {$/;"	s
+type	normalize.css	/^[type="radio"] {$/;"	s
+type	normalize.css	/^[type="reset"],$/;"	s
+type	normalize.css	/^[type="reset"]:-moz-focusring,$/;"	s
+type	normalize.css	/^[type="reset"]::-moz-focus-inner,$/;"	s
+type	normalize.css	/^[type="search"] {$/;"	s
+type	normalize.css	/^[type="search"]::-webkit-search-decoration {$/;"	s
+type	normalize.css	/^[type="submit"] {$/;"	s
+type	normalize.css	/^[type="submit"]:-moz-focusring {$/;"	s
+type	normalize.css	/^[type="submit"]::-moz-focus-inner {$/;"	s
