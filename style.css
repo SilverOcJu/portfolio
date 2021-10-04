@@ -151,8 +151,8 @@ section {
 
 .banner .userimg {
   position: relative;
-  width: 20rem;
-  height: 20rem;
+  width: 15rem;
+  height: 15rem;
   overflow: hidden;
   border-radius: 50%;
   margin-bottom: 2rem;
@@ -173,4 +173,47 @@ h3 {
   color: var(--negro);
   letter-spacing: 1.4px;
   text-transform: uppercase;
+}
+
+p {
+  color: #787878;
+}
+
+.boton {
+  position: relative;
+  display: inline-block;
+  padding: 1rem 3rem;
+  background: var(--negro2);
+  color: white;
+  font-weight: 500;
+  margin-top: 1rem;
+  text-decoration: none;
+}
+
+.redesSociales {
+  position: absolute;
+  bottom: 1rem;
+  display: flex;      /* Coloca los elementos alineados horizontalmente puesto que, ordenados en lista, están alineados verticalmente */
+}
+
+.redesSociales li {
+  list-style: none;
+}
+
+.redesSociales li a {
+  width: 4rem;
+  height: 4rem;
+  background: rgba(0,0,0,0.05);
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: var(--negro);
+  font-size: 2rem;
+}
+
+.redesSociales li a:hover {
+  background: var(--negro);
+  color: var(--blanco);
 }

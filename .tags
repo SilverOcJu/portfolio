@@ -14,6 +14,7 @@
 .banner .contenido	style.css	/^.banner .contenido {$/;"	c
 .banner .userimg	style.css	/^.banner .userimg {$/;"	c
 .banner .userimg img	style.css	/^.banner .userimg img {$/;"	s
+.boton	style.css	/^.boton {$/;"	c
 .contenedor	style.css	/^.contenedor {$/;"	c
 .main	style.css	/^.main {$/;"	c
 .main .barrasuperior	style.css	/^.main .barrasuperior {$/;"	c
@@ -27,6 +28,10 @@
 .navegacion ul li a	style.css	/^.navegacion ul li a {$/;"	s
 .navegacion ul li a:hover	style.css	/^.navegacion ul li a:hover {$/;"	s
 .navegacion.activo	style.css	/^.navegacion.activo {                            \/* clase "activo" añadida en el js *\/$/;"	c
+.redesSociales	style.css	/^.redesSociales {$/;"	c
+.redesSociales li	style.css	/^.redesSociales li {$/;"	s
+.redesSociales li a	style.css	/^.redesSociales li a {$/;"	s
+.redesSociales li a:hover	style.css	/^.redesSociales li a:hover {$/;"	s
 :-moz-focusring	normalize.css	/^[type="button"]:-moz-focusring,$/;"	s
 :-moz-focusring	normalize.css	/^[type="reset"]:-moz-focusring,$/;"	s
 :-moz-focusring	normalize.css	/^[type="submit"]:-moz-focusring {$/;"	s
@@ -64,6 +69,7 @@ legend	normalize.css	/^legend {$/;"	s
 main	normalize.css	/^main {$/;"	s
 o	normalize.css	/^o$/;"	s
 optgroup	normalize.css	/^optgroup,$/;"	s
+p	style.css	/^p {$/;"	s
 pre	normalize.css	/^pre {$/;"	s
 progress	normalize.css	/^progress {$/;"	s
 samp	normalize.css	/^samp {$/;"	s
