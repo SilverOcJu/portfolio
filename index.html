@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portafolio Web Design</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="normalize.css">
+</head>
+<body>
+  <div class="contenedor">
+    <div class="navegacion">
+      <ul>
+        <li><a href="#">Principal</a></li>
+        <li><a href="#">Acerca de</a></li>
+        <li><a href="#">Servicios</a></li>
+        <li><a href="#">Proyectos</a></li>
+        <li><a href="#">Mis clientes</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </div>
+    <div class="main">
+      <div class="barrasuperior">
+        <a href="#" class="logo">Portafolio</a>
+        <div class="display">
+          <i class="fa fa-bars" aria-hidden="true"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let display = document.querySelector('.display');
+    let barrasuperior = document.querySelector('.barrasuperior');
+    let navegacion = document.querySelector('.navegacion');
+    let main = document.querySelector('.main');
+    display.onclick = function() {
+      display.classList.toggle('activo');
+      barrasuperior.classList.toggle('activo');
+      navegacion.classList.toggle('activo');
+      main.classList.toggle('activo');
+    }
+  </script>
+</body>
+</html>
